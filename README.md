@@ -15,7 +15,7 @@
 * Analiza, Filipovic, 11-13: https://zoom.us/j/94085313882
 
 * Grafika, Masulovic, 17-19: https://zoom.us/j/93507122290
-* Grafika, Marko, 19-21: N/A
+* Grafika, Marko, 19-21: https://zoom.us/j/91325164899
 
 ## Cetvrtak
 
