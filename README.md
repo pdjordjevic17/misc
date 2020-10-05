@@ -3,7 +3,7 @@
 ## Ponedeljak
 
 * Softver, Ana, 9-11: https://zoom.us/j/91767829641
-* Skript, Radenkovic, 13-15: https://zoom.us/j/99331239298
+* Skript, Radenkovic, 13-15: https://zoom.us/j/95822243363
 
 ## Utorak
 
