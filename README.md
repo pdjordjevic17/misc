@@ -1,30 +1,26 @@
 # Raspored
 
 ## Ponedeljak
-
-* Softver, Ana, 9-11: https://zoom.us/j/91767829641
+* 12-14 Funkcionalno programiranje, Igor, Raf7 https://zoom.us/j/97424729638
+* 14-17 Baze podataka, Popovic Snezana, Kol3 https://zoom.us/j/91006735601
 
 ## Utorak
-
-* Softver, Perisic, 9-12: https://zoom.us/j/95975246427
+* 13-15 Funkcionalno programiranje, Surla, Raf19 https://zoom.us/j/94633340728
+* 15-17 Masinsko ucenje, Milos, Rg1 https://zoom.us/j/92947676514
 
 ## Sreda
-
-* Analiza, Milanka, 9-11: https://zoom.us/j/93528737647
-* Analiza, Filipovic, 11-13: https://zoom.us/j/94085313882
-
-* Grafika, Masulovic, 17-19: https://zoom.us/j/99830023528
-* Grafika, Marko, 19-21: https://zoom.us/j/91325164899
+* 12-14 Kriptografija, Urosevic, Kol2 https://zoom.us/j/96656649193
+* 14-16 Kriptografija, Urosevic, Raf7 https://zoom.us/j/93103357186
+* 19-21 Baze podataka, Ana ili Nevena, Raf4 https://zoom.us/j/91385854692
 
 ## Cetvrtak
-
-* Statistika, Nevena, 9-11: https://zoom.us/j/94998475715
-* Statistika, Maric, 13-15: https://zoom.us/j/91502171675
+* 11-13 Interakcija, Nemanja, Raf7 https://zoom.us/j/93183786134
+* 14-17 Operativni sistemi, Stevan, Kol1 https://zoom.us/j/98845259040
+* 17-20 Operativni sistemi, Bane, Raf7 https://zoom.us/j/93589261928
 
 ## Petak
-
-* Sistemi, Bane, 9-11: https://zoom.us/j/98043414256
-* Sistemi, Milinkovic, 13-15: https://zoom.us/j/94919586337
+* 09-11 Masinsko ucenje, Nemanja, Raf6 https://zoom.us/j/97378778401
+* 15-17 Interakcija, Vujosevic, Kol3 https://zoom.us/j/95754325510
 
 ---
 
