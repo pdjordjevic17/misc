@@ -6,7 +6,7 @@
 
 ## Utorak
 * 13-15 Funkcionalno programiranje, Surla, Raf19 https://zoom.us/j/94633340728
-* 15-17 Masinsko ucenje, Milos, Rg1 https://zoom.us/j/92947676514
+* 15-17 Masinsko ucenje, Milos, Rg1 https://zoom.us/j/2629257688
 
 ## Sreda
 * 12-14 Kriptografija, Urosevic, Kol2 https://zoom.us/j/96656649193
