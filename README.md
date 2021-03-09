@@ -6,7 +6,7 @@
 
 ## Utorak
 * 13-15 Funkcionalno programiranje, Surla, Raf19 https://zoom.us/j/94633340728
-* 15-17 Masinsko ucenje, Milos, Rg1 https://zoom.us/j/2629257688
+* 15-17 Masinsko ucenje, Milos, Rg1 https://zoom.us/j/98523789108
 * 17-19 Baze podataka, Ana ili Nevena, Raf4 https://zoom.us/j/93467400263
 
 ## Sreda
